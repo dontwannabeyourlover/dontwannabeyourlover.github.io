@@ -17,3 +17,6 @@ Voici une visualisation générée par Google Trends qui montre le nombre de rec
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3620_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"sertanejo","geo":"BR","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=BR&q=sertanejo&hl=fr&date=today 12-m","guestPath":"https://trends.google.fr:443/trends/embed/"}); </script>
 
+Cette visualisation en forme de camembert montre la popularité du sertanejo dans le Weekly Top Songs Brazil sur les 48 premières chansons sélectionnées. 
+<iframe title="Les principaux genres musicaux au Brésil  (Copy)" aria-label="Pie Chart" id="datawrapper-chart-Ryk9Z" src="https://datawrapper.dwcdn.net/Ryk9Z/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="655" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
