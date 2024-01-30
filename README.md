@@ -4,7 +4,8 @@ La musique sertaneja est un genre musical brésilien apparu au début du 20ème 
 
 Le but de ce projet est de montrer la popularité de ce genre et les différentes représentations de ce genre. 
 
-Pour commencer, voici les différentes sous-genres/périodes que présentent le sertanejo. 
+Pour commencer, voici les différentes sous-genres/périodes que présentent le sertanejo afin de se faire une idée : 
 
-[https://query.wikidata.org/#SELECT%20%3Fitem%20%3FitemLabel%0AWHERE%20%7B%0A%20%20VALUES%20%3Fitem%20%7B%20wd%3AQ106594830%20wd%3AQ109466271%20wd%3AQ10370558%20wd%3AQ10659481%20wd%3AQ106594814%7D%0A%20%20%3Fitem%20rdfs%3Alabel%20%3FitemLabel.%0A%20%20FILTER(LANG(%3FitemLabel)%20%3D%20%22en%22)%0A%7D%0A%0A%0A%0A%0A Query]
+<iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3Fitem%20%3FitemLabel%0AWHERE%20%7B%0A%20%20VALUES%20%3Fitem%20%7B%20wd%3AQ106594830%20wd%3AQ109466271%20wd%3AQ10370558%20wd%3AQ10659481%20wd%3AQ106594814%7D%0A%20%20%3Fitem%20rdfs%3Alabel%20%3FitemLabel.%0A%20%20FILTER(LANG(%3FitemLabel)%20%3D%20%22en%22)%0A%7D%0A%0A%0A%0A%0A" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+
 
