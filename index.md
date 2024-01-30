@@ -8,3 +8,12 @@ Pour commencer, voici les différentes sous-genres/périodes que présentent le 
 
 <iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3Fitem%20%3FitemLabel%0AWHERE%20%7B%0A%20%20VALUES%20%3Fitem%20%7B%20wd%3AQ106594830%20wd%3AQ109466271%20wd%3AQ10370558%20wd%3AQ10659481%20wd%3AQ106594814%7D%0A%20%20%3Fitem%20rdfs%3Alabel%20%3FitemLabel.%0A%20%20FILTER(LANG(%3FitemLabel)%20%3D%20%22en%22)%0A%7D%0A%0A%0A%0A%0A" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
+## Sommaire
+
+
+## 1. Sa popularité au Brésil 
+
+Voici une visualisation générée par Google Trends qui montre le nombre de recherche du terme "sertanejo" ces 12 derniers mois au Brésil, découpé par région. On voit que c'est la région Mato Grosso où le terme a été le plus recherché. 
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3620_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"sertanejo","geo":"BR","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=BR&q=sertanejo&hl=fr&date=today 12-m","guestPath":"https://trends.google.fr:443/trends/embed/"}); </script>
+
