@@ -26,7 +26,6 @@ Cette visualisation vise à montrer la popularité du sertanejo à travers ces s
 <div class="flourish-embed flourish-chart" data-src="visualisation/16640547"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-
 ## 2. Représentation de genre 
 
 Avec le même jeu de donnée que la précédente visualisation, on va sélectionner uniquement les chansons sertanejo puis ensuite montrer le nombre de chansons interprétées par des hommes (ou une chanson composée uniquement d'hommes) ou bien par des femmes (ou une chanson composée uniquement de femmes) ou bien mixte (c'est-à-dire il y a des hommes et des femmes dedans).
