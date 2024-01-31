@@ -32,14 +32,31 @@ Avec le même jeu de donnée que la précédente visualisation, on va sélection
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16636848"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Estoy en el paraiso
-
-Dans cette visualisation, on voit l'artiste sertanejo la plus streamée à la semaine du 25 janvier 2024  
+Dans cette visualisation, on voit l'artiste féminine sertanejo la plus streamée à la semaine du 25 janvier 2024  
 Pour ce faire, j'ai fait un croisement entre les chansons chantées par des femmes ensuite les chansons chantées en mixte et j'ai enlevé les autres artistes figurant (parce que c'est soit un homme, soit une femme qui ne fait pas de musique sertaneja ou bien le label s'est mis en featuring pour les besoins d'un album commun entre les artistes du même label) pour afficher l'artiste qui revenait le plus. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16641599"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 L'artiste qui revient le plus est Simone Mendes. 
+
+## 3. Présentation d'artistes féminines du sertanejo
+
+À partir de la précédente visualisation, j'ai décidé d'intégrer un code pour présenter une artiste et ses 5 titres les plus populaires du moment. 
+
+* Simone Mendes
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2eK9gcJQ6uqVvJL63dnOM3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+* Ana Castela
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2CKOmarVWvWqkNWUatHCex?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+* Lauana Prado
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6TYimByryGphZCtwYopH0y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+* Marília Mendonça
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1yR65psqiazQpeM79CcGh8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 
