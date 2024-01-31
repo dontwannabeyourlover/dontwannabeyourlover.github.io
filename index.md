@@ -34,6 +34,16 @@ Avec le même jeu de donnée que la précédente visualisation, on va sélection
 
 Estoy en el paraiso
 
+Dans cette visualisation, on voit l'artiste sertanejo la plus streamée à la semaine du 25 janvier 2024  
+Pour ce faire, j'ai fait un croisement entre les chansons chantées par des femmes ensuite les chansons chantées en mixte et j'ai enlevé les autres artistes figurant (parce que c'est soit un homme, soit une femme qui ne fait pas de musique sertaneja ou bien le label s'est mis en featuring pour les besoins d'un album commun entre les artistes du même label) pour afficher l'artiste qui revenait le plus. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/16641599"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+L'artiste qui revient le plus est Simone Mendes. 
+
+
+
+
 
 
 
