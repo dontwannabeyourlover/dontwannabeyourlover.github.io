@@ -33,6 +33,8 @@ Avec le même jeu de donnée que la précédente visualisation, on va sélection
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16636848"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Estoy en el paraiso
+
 
 
 
