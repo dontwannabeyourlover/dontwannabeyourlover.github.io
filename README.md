@@ -21,9 +21,15 @@ Cette visualisation en forme de camembert montre la popularité du sertanejo dan
 <iframe title="Les principaux genres musicaux au Brésil  (Copy)" aria-label="Pie Chart" id="datawrapper-chart-Ryk9Z" src="https://datawrapper.dwcdn.net/Ryk9Z/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="655" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
+Cette visualisation vise à montrer la popularité du sertanejo à travers ces streams Spotify, avec les 48 premières chansons dans le Weekly Top Songs Brazil (semaine du 25 janvier), les chiffres montrées sont la somme des streams de chaque genre : 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/16640547"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
 ## 2. Représentation de genre 
 
-Avec le même jeu de donnée que la précédente visualisation, on va sélectionner uniquement les chansons sertanejo puis ensuite montrer le nombre de chansons interprétées par des hommes (ou une chanson composée uniquement d'hommes) ou bien par des femmes (ou une chanson composée uniquement de femmes) ou bien mixte (c'est-à-dire il n'y a des hommes et des femmes dedans)
+Avec le même jeu de donnée que la précédente visualisation, on va sélectionner uniquement les chansons sertanejo puis ensuite montrer le nombre de chansons interprétées par des hommes (ou une chanson composée uniquement d'hommes) ou bien par des femmes (ou une chanson composée uniquement de femmes) ou bien mixte (c'est-à-dire il y a des hommes et des femmes dedans).
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16636848"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
