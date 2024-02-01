@@ -13,10 +13,10 @@ Pour commencer, voici les différentes sous-genres/périodes que présentent le 
 <iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3Fitem%20%3FitemLabel%0AWHERE%20%7B%0A%20%20VALUES%20%3Fitem%20%7B%20wd%3AQ106594830%20wd%3AQ109466271%20wd%3AQ10370558%20wd%3AQ10659481%20wd%3AQ106594814%7D%0A%20%20%3Fitem%20rdfs%3Alabel%20%3FitemLabel.%0A%20%20FILTER(LANG(%3FitemLabel)%20%3D%20%22en%22)%0A%7D%0A%0A%0A%0A%0A" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 ## Sommaire
-1. [Sa popularité au Brésil] (#popularité)
-2. [Représentation de genre] (#representation)
-3. [Présentation d'artistes féminines du sertanejo] (#feminejo)
-4. [Conclusion] (#conclusion)
+1. [Sa popularité au Brésil](#popularité)
+2. [Représentation de genre](#representation)
+3. [Présentation d'artistes féminines du sertanejo](#feminejo)
+4. [Conclusion](#conclusion)
 
 ## 1. Sa popularité au Brésil <a name="popularité"></a>
 
@@ -68,3 +68,7 @@ L'artiste qui revient le plus est Simone Mendes.
 ## 4. Conclusion <a name="conclusion"></a>
 
 La conclusion de ce projet est que j'ai voulu présenter le sertanejo sur plusieurs formes, ce ne sont pas sous des formes prises au hasard mais sur des angles qui sont souvent abordés lorsque l'on parle du sertanejo comme de sa popularité face aux autres genres, de sa domination dans les charts et de la représentation des femmes dans ce milieu. J'ai associé avec ça Spotify puisque c'est une plateforme beaucoup utilisée au Brésil mais également parce qu'elle est la plateforme de référence lorsque l'on veut mesurer la grandeur du sertanejo avec des données.
+
+### Plus d'information 
+Audit de la data visualisation pour découvrir comment le jeu de données a été conçu : [Audit Data Visualisation](https://github.com/dontwannabeyourlover/sertanejo/blob/main/Audit%20Data%20visualisation.pdf)
+Spring Qualité du jeu de données : [Spring Quality du Weekly Top Songs Brazil à la semaine du 25 janvier 2024](https://github.com/dontwannabeyourlover/sertanejo/blob/main/Sprint%20Qualite%CC%81%20Weekly%20Top%20Songs%20Brazil.pdf)
