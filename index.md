@@ -70,5 +70,5 @@ L'artiste qui revient le plus est Simone Mendes.
 La conclusion de ce projet est que j'ai voulu présenter le sertanejo sur plusieurs formes, ce ne sont pas sous des formes prises au hasard mais sur des angles qui sont souvent abordés lorsque l'on parle du sertanejo comme de sa popularité face aux autres genres, de sa domination dans les charts et de la représentation des femmes dans ce milieu. J'ai associé avec ça Spotify puisque c'est une plateforme beaucoup utilisée au Brésil mais également parce qu'elle est la plateforme de référence lorsque l'on veut mesurer la grandeur du sertanejo avec des données.
 
 ### Plus d'information 
-Audit de la data visualisation pour découvrir comment le jeu de données a été conçu : [Audit Data Visualisation](https://github.com/dontwannabeyourlover/sertanejo/blob/main/Audit%20Data%20visualisation.pdf)
-Spring Qualité du jeu de données : [Spring Quality du Weekly Top Songs Brazil à la semaine du 25 janvier 2024](https://github.com/dontwannabeyourlover/sertanejo/blob/main/Sprint%20Qualite%CC%81%20Weekly%20Top%20Songs%20Brazil.pdf)
+* Audit de la data visualisation pour découvrir comment le jeu de données a été conçu : [Audit Data Visualisation](https://github.com/dontwannabeyourlover/sertanejo/blob/main/Audit%20Data%20visualisation.pdf)
+* Spring Qualité du jeu de données : [Spring Quality du Weekly Top Songs Brazil à la semaine du 25 janvier 2024](https://github.com/dontwannabeyourlover/sertanejo/blob/main/Sprint%20Qualite%CC%81%20Weekly%20Top%20Songs%20Brazil.pdf)
