@@ -47,7 +47,7 @@ L'artiste qui revient le plus est Simone Mendes.
 
 ## 3. Présentation d'artistes féminines du sertanejo <a name="feminejo"></a>
 
-À partir de la précédente visualisation, j'ai décidé d'intégrer un code pour présenter une artiste et ses 5 titres les plus populaires du moment. 
+À partir de la précédente visualisation, j'ai décidé d'intégrer un code pour présenter une artiste et ses 10 titres les plus populaires du moment. 
 
 * Simone Mendes
 
